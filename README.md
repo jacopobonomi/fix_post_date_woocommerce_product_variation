@@ -2,6 +2,7 @@
 ## Usage:
 * Do a backup of your db.
 * Copy content of the file fix_post_date.php without tag ``` <?php ?> ```.
+* Check your database prefix (default is ``` wp_ ```)
 * Paste all in your functions.php of theme.
 * Go in a random page of your website, one time.
 * Come back to your functions.php and delete the snippet.
